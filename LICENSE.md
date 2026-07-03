@@ -1,4 +1,4 @@
-# 
+# Turbo AI Code Review Assistant predefinições. Com IA generativa e IA explicável — otimizado para máximo desempenho.
 
 
 
